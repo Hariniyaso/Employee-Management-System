@@ -1,0 +1,36 @@
+{
+  "employees": [
+    {
+      "ename": "harini",
+      "email": "harini@gmail.com",
+      "designation": "senior developer",
+      "id": "101"
+    },
+    {
+      "ename": "Roshinee",
+      "email": "roshinee@gmail.com",
+      "designation": "Data Analyst",
+      "id": "102"
+    },
+    {
+      "ename": "Aswatha",
+      "email": "aswatha@gmail.com",
+      "designation": "Renal dialyser",
+      "id": "msZetGWayeg"
+    },
+    {
+      "ename": "Bhavatharni",
+      "email": "bhavatharni@gmail.com",
+      "designation": "Manager",
+      "id": "AjZOE88S5kg"
+    },
+    {
+      "ename": "rubesh",
+      "email": "rubesh@gmail.com",
+      "designation": "designer",
+      "id": "7LezwuYPq8U"
+    }
+  ],
+  "Student": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
